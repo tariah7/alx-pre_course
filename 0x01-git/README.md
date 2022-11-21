@@ -1,1 +1,1 @@
-This is my second teston git via ALX
+This is my repo on ALX school
